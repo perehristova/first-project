@@ -41,7 +41,7 @@
   }
   
   .search:invalid {
-    background-color: #fd24af;
+    background-color: #fd24c7;
   }
   
   .search:invalid::placeholder {
@@ -49,7 +49,7 @@
   }
   
   .button {
-    border: 1px solid #000;
+    border: 1px solid #933232;
     padding: 10px 65px;
     color: #000;
     font-family: inherit;
